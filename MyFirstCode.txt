@@ -3,3 +3,4 @@
 Hello world
 “This is my new feature”
 add from the master
+“add from the myNewFeature”
